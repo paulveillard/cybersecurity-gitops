@@ -10,7 +10,7 @@ An ongoing & curated collection of awesome software best practices and technique
 - Git is widely accepted as the standard version-control system for DevOps teams. It serves as the central repository for everything CI/CD, covering pull and merge requests, commits and forking. Git repositories are often located on Bitbucket, GitHub, GitLab and other Git providers.
 
 
-GitOps — a set of practices that are complementary to and evolved from DevOps — has emerged as an essential component in supply chain security best practices for cloud native environments. It serves as what Alexis Richardson, CEO and co-founder of Weaveworks — who is widely credited with coining the term “GitOps” — calls a “single source of truth” for declarative infrastructure and applications.
+**GitOps — a set of practices that are complementary to and evolved from DevOps — has emerged as an essential component in supply chain security best practices for cloud native environments. It serves as what Alexis Richardson, CEO and co-founder of Weaveworks — who is widely credited with coining the term “GitOps” — calls a “single source of truth” for declarative infrastructure and applications.**
 
 
 GitOps has proven useful in cloud native environments for managing Infrastructure as Code, for managing and applying cluster configuration, as well as for automating deployment of containerized applications and their configurations to distributed systems.
