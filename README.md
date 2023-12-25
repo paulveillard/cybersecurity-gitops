@@ -7,13 +7,14 @@ An ongoing & curated collection of awesome software best practices and technique
 ## `Theory` - Table of Contents
 
 ### What is GitOps?
-- SWIFT, or the Society for Worldwide Interbank Financial Telecommunication, is a secure global messaging network that banks use to make cross-border payments. The network facilitates financial institutions to wire money to each other, helping ensure that global trade carries on smoothly.
+- Git is widely accepted as the standard version-control system for DevOps teams. It serves as the central repository for everything CI/CD, covering pull and merge requests, commits and forking. Git repositories are often located on Bitbucket, GitHub, GitLab and other Git providers.
 
-> It is used by more than 11,000 financial institutions in over 200 countries and territories to send secure payment orders. Nearly 40 million messages with instructions to transfer trillions of dollars were sent each day in 2020 over the platform, making it the most important payment messaging network in the world, by far.
 
-Because the messages sent over the platform are deemed secure, it helps banks honor the payment instructions swiftly. This ensures that financial institutions can handle high volumes of transactions every day.
+GitOps — a set of practices that are complementary to and evolved from DevOps — has emerged as an essential component in supply chain security best practices for cloud native environments. It serves as what Alexis Richardson, CEO and co-founder of Weaveworks — who is widely credited with coining the term “GitOps” — calls a “single source of truth” for declarative infrastructure and applications.
 
-The Belgium-based society, founded in 1973, is overseen by central banks in Europe, the United States, Canada and Japan.
+
+GitOps has proven useful in cloud native environments for managing Infrastructure as Code, for managing and applying cluster configuration, as well as for automating deployment of containerized applications and their configurations to distributed systems.
+
 
 ## `Techniques` - Table of Contents
 
