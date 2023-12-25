@@ -9,6 +9,7 @@ An ongoing & curated collection of awesome software best practices and technique
 ### What is GitOps?
 - Git is widely accepted as the standard version-control system for DevOps teams. It serves as the central repository for everything CI/CD, covering pull and merge requests, commits and forking. Git repositories are often located on Bitbucket, GitHub, GitLab and other Git providers.
 
+![image](https://github.com/paulveillard/cybersecurity-gitops/blob/main/img/gitops.png)
 
 **GitOps — a set of practices that are complementary to and evolved from DevOps — has emerged as an essential component in supply chain security best practices for cloud native environments. It serves as what Alexis Richardson, CEO and co-founder of Weaveworks — who is widely credited with coining the term “GitOps” — calls a “single source of truth” for declarative infrastructure and applications.**
 
