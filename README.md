@@ -6,7 +6,7 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## `Theory` - Table of Contents
 
-### What is SWIFT?
+### What is GitOps?
 - SWIFT, or the Society for Worldwide Interbank Financial Telecommunication, is a secure global messaging network that banks use to make cross-border payments. The network facilitates financial institutions to wire money to each other, helping ensure that global trade carries on smoothly.
 
 > It is used by more than 11,000 financial institutions in over 200 countries and territories to send secure payment orders. Nearly 40 million messages with instructions to transfer trillions of dollars were sent each day in 2020 over the platform, making it the most important payment messaging network in the world, by far.
